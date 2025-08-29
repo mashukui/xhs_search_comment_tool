@@ -1,0 +1,2 @@
+# xhs_search_comment_tool
+用python开发的小红书评论采集软件，支持通过搜索关键词和笔记链接两种方式采集评论。
