@@ -27,7 +27,7 @@
 评论数据csv
 
 ## 1.4 演示视频
-软件运行演示视频：[【软件演示】小红书评论采集工具，根据关键词批量爬笔记下的评论](https://www.bilibili.com/video/BV1uDtneqEhA/)
+软件运行演示视频：[【软件演示】小红书评论采集工具，根据关键词批量爬笔记下的评论](https://mp.weixin.qq.com/s/XKB0QLWfxHAJrOo-QvHsVw)
 
 ## 1.5 软件说明
 几点重要说明，请详读了解：
