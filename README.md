@@ -86,9 +86,10 @@ cookie获取说明2：
 季卡：使用期限3个月，399元。季卡可多次购买。适合中期采集需求
 年卡：使用期限1年，799元。年卡可多次购买。适合长期采集需求
 ```
-付费方式：<img width="1528" height="918" alt="收款码v2" src="https://github.com/user-attachments/assets/32cc499c-ea13-4caa-ac66-f720f7938285" />
-付费后，加我v（493882434）自动掉落登录卡密。
+付费方式：
+<img width="2144" height="412" alt="收款码v4" src="https://github.com/user-attachments/assets/d081b2ee-e7f7-45cc-8c94-43dc425b50c8" />
 
+付费后，加我v（493882434）自动掉落登录卡密。
 
 ## 4.2 一机一码
 软件采用一机一码机制，一个卡密只能在一台电脑运行、不可多电脑运行。
@@ -96,6 +97,6 @@ cookie获取说明2：
 一台电脑仅允许运行一个软件，不支持软件多开。
 
 # 五、软件首发
-"**爬小红书搜索评论软件**"首发于公众号"**老男孩的平凡之路**"，欢迎交流！![二维码-公众号放底部](https://github.com/user-attachments/assets/59ccb6e1-4fe2-4a33-9e1b-2ecf12b81cc0)
-
+"**爬小红书搜索评论软件**"首发于公众号"**老男孩的平凡之路**"，欢迎交流！
+<img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/121db28c-8d31-49f3-915c-9ccbc2e3924d" />
 
