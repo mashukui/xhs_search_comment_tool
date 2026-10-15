@@ -20,11 +20,11 @@
 
 ## 1.3 结果展示
 爬取结果1-笔记数据：
-![笔记数据csv](https://files.mdnice.com/user/32110/651ec6c0-5ce9-4eac-b0a5-fc67fdf3d09e.png)
+![笔记数据csv](images/xsc_01.png)
 笔记数据csv
 
 爬取结果2-评论数据：
-![评论数据csv](https://files.mdnice.com/user/32110/0374ab81-4000-448c-a174-15b78cdc8111.png)
+![评论数据csv](images/xsc_02.png)
 评论数据csv
 
 ## 1.4 演示视频
@@ -62,7 +62,7 @@ logging：日志记录
 ## 3.0 填写cookie
 开始采集前，先把自己的cookie值填入cookie.txt文件。
 cookie获取说明1：
-![cookie获取方法](https://files.mdnice.com/user/32110/6fc456f5-ae92-4e10-b522-6479959cccd2.png)
+![cookie获取方法](images/xsc_03.png)
 cookie获取方法
 
 cookie获取说明2：
